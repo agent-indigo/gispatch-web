@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.postgres',
     'django.contrib.staticfiles',
-    'gispatch.apps.gispatchConfig',
+    'gispatch.apps.GispatchConfig',
     'rest_framework'
 ]
 REST_FRAMEWORK = {
